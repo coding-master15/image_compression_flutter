@@ -2,7 +2,7 @@ group 'id.co.eyro.image_compression_flutter'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.5.20'
+    ext.kotlin_version = '1.6.21'
     repositories {
         google()
         mavenCentral()
